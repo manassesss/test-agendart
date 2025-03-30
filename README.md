@@ -90,5 +90,5 @@ Este projeto é apenas para fins de teste/desafio técnico.
 
 
 
-Desenvolvido com 💙 por Manassés
+Desenvolvido com 💙 por mim.
 
