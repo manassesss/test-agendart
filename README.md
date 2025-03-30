@@ -86,6 +86,8 @@ Este projeto é apenas para fins de teste/desafio técnico.
 ---
 ## 📸 Preview
 
+<img src="https://github.com/manassesss/try-repo/blob/main/agendart.gif"/>
+
 
 
 Desenvolvido com 💙 por Manassés
